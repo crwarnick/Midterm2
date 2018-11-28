@@ -1,0 +1,11 @@
+body
+{
+  background-image: linear-gradient(lightblue, white);
+  background-repeat: no-repeat;
+}
+.image
+{
+  height: 50px;
+  border: solid black;
+  border-width: thin;
+}
